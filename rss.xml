@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ccru Cybernetic culture research unit]]></title>
+        <description><![CDATA[Ccru Cybernetic culture research unit]]></description>
+        <link>https://thegrid.ai/ccru/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 11 Oct 2015 03:00:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ccru/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://hyperstition.abstractdynamics.org/archives/Numogram.gif">]]></description>
+            <link>https://thegrid.ai/ccru/1717b9be-ec7f-47e1-914a-75919aac4550/index.html</link>
+            <guid isPermaLink="false">1717b9be-ec7f-47e1-914a-75919aac4550</guid>
+            <pubDate>Sun, 11 Oct 2015 02:57:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://hyperstition.abstractdynamics.org/archives/ABJAD-Numogram.gif">]]></description>
+            <link>https://thegrid.ai/ccru/60ba01c1-0ae6-4839-b1b2-b2b314edff86/index.html</link>
+            <guid isPermaLink="false">60ba01c1-0ae6-4839-b1b2-b2b314edff86</guid>
+            <pubDate>Sun, 11 Oct 2015 02:57:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://hyperstition.abstractdynamics.org/archives/ABJAD-table.gif">]]></description>
+            <link>https://thegrid.ai/ccru/8d8d0d8f-bffa-4267-9523-6f4de0e37dcc/index.html</link>
+            <guid isPermaLink="false">8d8d0d8f-bffa-4267-9523-6f4de0e37dcc</guid>
+            <pubDate>Sun, 11 Oct 2015 02:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://hyperstition.abstractdynamics.org/archives/ABJAD-Numogram.gif">]]></description>
+            <link>https://thegrid.ai/ccru/cad09d82-94a8-4c34-8108-1d62ed1de8ff/index.html</link>
+            <guid isPermaLink="false">cad09d82-94a8-4c34-8108-1d62ed1de8ff</guid>
+            <pubDate>Sun, 11 Oct 2015 02:54:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
