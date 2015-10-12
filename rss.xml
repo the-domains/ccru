@@ -5,8 +5,15 @@
         <description><![CDATA[http://ccru.net/]]></description>
         <link>https://thegrid.ai/ccru/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 06:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 06:30:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ccru/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ron Eglash: The fractals at the heart of African designs]]></title>
+            <description><![CDATA[<article><h1>Ron Eglash: The fractals at the heart of African designs</h1><p>'I am a mathematician, and I would like to stand on your roof.' That is how Ron Eglash greeted many African families he met while researching the fractal patterns he'd noticed in villages across the continent.</p></article>]]></description>
+            <link>https://www.ted.com/talks/ron_eglash_on_african_fractals#</link>
+            <guid isPermaLink="false">9e84cd3a-978b-47f1-ad7f-56c518f49d43</guid>
+            <pubDate>Mon, 12 Oct 2015 06:29:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shelling Out: The Origins of Money | Satoshi Nakamoto Institute]]></title>
             <description><![CDATA[<article><h1>Shelling Out: The Origins of Money | Satoshi Nakamoto Institute</h1><p>The precursors of money, along with language, enabled early modern humans to solve problems of cooperation that other animals cannot - including problems of reciprocal altruism, kin altruism, and the mitigation of aggression. These precursors shared with non-fiat currencies very specific characteristics - they were not merely symbolic or decorative objects.</p><img src="http://nakamotoinstitute.org/static/img/docs/shelling-out/KulaRingArmshellMwali.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/ccru/1717b9be-ec7f-47e1-914a-75919aac4550/index.html</link>
             <guid isPermaLink="false">1717b9be-ec7f-47e1-914a-75919aac4550</guid>
             <pubDate>Sun, 11 Oct 2015 02:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://hyperstition.abstractdynamics.org/archives/ABJAD-table.gif">]]></description>
-            <link>https://thegrid.ai/ccru/8d8d0d8f-bffa-4267-9523-6f4de0e37dcc/index.html</link>
-            <guid isPermaLink="false">8d8d0d8f-bffa-4267-9523-6f4de0e37dcc</guid>
-            <pubDate>Sun, 11 Oct 2015 02:57:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
