@@ -5,8 +5,15 @@
         <description><![CDATA[http://ccru.net/]]></description>
         <link>https://thegrid.ai/ccru/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 06:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 06:31:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ccru/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[0rphan Drift :: Neo Future > Black Water ghost prescient]]></title>
+            <description><![CDATA[<article><h1>0rphan Drift :: Neo Future > Black Water ghost prescient</h1><p>Jan 30th 2015 Atlantic House 1 Perth road, 7405 Maitland, Western Cape, South Africa Cello and saxophone improvising with traffic noises under a highway bridge. A performance of Terry Riley's in C for two laptops. Avant noise electronics. Analogue synthesizers. A postrock ambient drone ensemble with experimental cinematography. Performance art.</p><img src="http://www.orphandriftarchive.com/images/neo-future/black-water/edge-of-wrong.jpg"></article>]]></description>
+            <link>http://www.orphandriftarchive.com/neofuture/black-water.php</link>
+            <guid isPermaLink="false">d9094ad3-f2ec-4267-a358-a40da485bcb0</guid>
+            <pubDate>Mon, 12 Oct 2015 06:31:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin]]></title>
             <description><![CDATA[<article><h1>Bitcoin</h1><p>The abstract to the original (2008) Bitcoin paper by Satoshi Nakamoto: A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending.</p><img src="https://s0.wp.com/i/blank.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Ccru- cybernetic culture research unit</h1><img src="http://www.ccru.net/images/syzygy/numogram.gif"></article>]]></description>
             <link>http://www.ccru.net/syzygy.htm</link>
             <guid isPermaLink="false">2d5e2a94-8491-4a1f-8663-f96b494f8482</guid>
-            <pubDate>Mon, 12 Oct 2015 04:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artworld Ethereum - Identity, Ownership and Authenticity]]></title>
-            <description><![CDATA[<article><h1>Artworld Ethereum - Identity, Ownership and Authenticity</h1><p>Ethereum is a distributed computing system for writing and executing smart contracts. Inspired by Bitcoin, it's currently in development with a planned late 2014 release date. The term "smart contracts" was coined around 1993 by computer scientist Nick Szabo to describe computer-readable code that replaces lawyer-readable code to describe agreements and obligations between people.</p></article>]]></description>
-            <link>https://thegrid.ai/ccru/artworld-ethereum-identity-ownership-and-authenticity/index.html</link>
-            <guid isPermaLink="false">e10b0d94-4e8a-4cd7-919e-81ea53e50e99</guid>
             <pubDate>Mon, 12 Oct 2015 04:36:49 GMT</pubDate>
         </item>
     </channel>
