@@ -5,8 +5,15 @@
         <description><![CDATA[http://ccru.net/]]></description>
         <link>https://thegrid.ai/ccru/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 04:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 06:29:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ccru/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shelling Out: The Origins of Money | Satoshi Nakamoto Institute]]></title>
+            <description><![CDATA[<article><h1>Shelling Out: The Origins of Money | Satoshi Nakamoto Institute</h1><p>The precursors of money, along with language, enabled early modern humans to solve problems of cooperation that other animals cannot - including problems of reciprocal altruism, kin altruism, and the mitigation of aggression. These precursors shared with non-fiat currencies very specific characteristics - they were not merely symbolic or decorative objects.</p><img src="http://nakamotoinstitute.org/static/img/docs/shelling-out/KulaRingArmshellMwali.jpg"></article>]]></description>
+            <link>http://nakamotoinstitute.org/shelling-out/</link>
+            <guid isPermaLink="false">67d2b53f-3cb7-4465-a51c-4ffaa4103890</guid>
+            <pubDate>Mon, 12 Oct 2015 06:29:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Amnesia Scanner - AS LIVE [][][][][] djynxx bootleg, by djynxx]]></title>
             <description><![CDATA[<article><h1>Amnesia Scanner - AS LIVE [][][][][] djynxx bootleg, by djynxx</h1><p>Amnesia Scanner - AS LIVE [][][][][] djynxx bootleg by djynxx, released 20 April 2015</p><img src="https://f1.bcbits.com/img/a1069818295_7.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/ccru/8d8d0d8f-bffa-4267-9523-6f4de0e37dcc/index.html</link>
             <guid isPermaLink="false">8d8d0d8f-bffa-4267-9523-6f4de0e37dcc</guid>
             <pubDate>Sun, 11 Oct 2015 02:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://hyperstition.abstractdynamics.org/archives/ABJAD-Numogram.gif">]]></description>
-            <link>https://thegrid.ai/ccru/cad09d82-94a8-4c34-8108-1d62ed1de8ff/index.html</link>
-            <guid isPermaLink="false">cad09d82-94a8-4c34-8108-1d62ed1de8ff</guid>
-            <pubDate>Sun, 11 Oct 2015 02:54:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
